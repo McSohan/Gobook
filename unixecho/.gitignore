@@ -1,0 +1,24 @@
+# Binaries for programs and tools
+*.exe
+*.o
+*.a
+
+# Test binaries
+*.test
+*.out
+
+# Dependency directories (Go modules)
+/vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+
+# Go specific
+*.prof
+*.gc*
